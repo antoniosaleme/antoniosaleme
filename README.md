@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thusspokedata&langs_count=8&count_private=true&theme=dracula&line_height=10">
+</p>
+
+<hr />
+<p align="right"><a href="https://github.com/thusspokedata/index-readme">Private Index</a></p>
+
+
 <!--
 **antoniosaleme/antoniosaleme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
