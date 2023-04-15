@@ -7,10 +7,11 @@
 </p>
 
 <hr />
-<p align="right"><a href="https://github.com/antoniosaleme/index-readme">Private Index</a></p>
+
 
 
 <!--
+<p align="right"><a href="https://github.com/thusspokedata/index-readme">Private Index</a></p>
 **antoniosaleme/antoniosaleme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
