@@ -7,7 +7,7 @@
 </p>
 
 <hr />
-<p align="right"><a href="https://github.com/thusspokedata/index-readme">Private Index</a></p>
+<p align="right"><a href="https://github.com/antoniosaleme/index-readme">Private Index</a></p>
 
 
 <!--
