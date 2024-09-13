@@ -14,8 +14,8 @@ I'm a web developer and data analyst with a background in opera singing. I have 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniosaleme&layout=compact&theme=dracula" />
 </p>
 
-![Coding GIF](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
 
 ---
 💻 Always learning and open to new opportunities. Feel free to reach out!
 
+![Coding GIF](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
